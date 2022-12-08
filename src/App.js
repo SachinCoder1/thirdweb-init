@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+import { ChainId, ThirdwebProvider } from '@thirdweb-dev/react';
+
 function App() {
   return (
     <div className="App">
